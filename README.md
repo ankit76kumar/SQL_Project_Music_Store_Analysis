@@ -131,7 +131,7 @@ music-database-sql-analysis/
 🎓 B.Tech in Artificial Intelligence & Data Science
 🏫 Truba Institute of Engineering & Information Technology
 📍 Bhopal, Madhya Pradesh
-🔗 \[Your GitHub or LinkedIn profile link here]
+
 
 ---
 
